@@ -14,24 +14,45 @@ let diena = 2;
 
 switch(diena){
     case 1:
+    case 8:
+    case 15:
+    case 22:
         console.log("Sendien yra Pirmadienis");
         break;
     case 2:
+    case 9:
+    case 16:
+    case 23:
         console.log("Sendien yra Antradienis");
         break;
     case 3:
+    case 10:
+    case 17:
+    case 24:
         console.log("Sendien yra Treciadienis");
         break;
     case 4:
+    case 11:
+    case 18:
+    case 25:
         console.log("Sendien yra Ketvirtadienis");
         break;
     case 5:
+    case 12:
+    case 19:
+    case 26:
         console.log("Sendien yra Penktadienis");
         break;
     case 6:
+    case 13:
+    case 20:
+    case 27:
         console.log("Sendien yra Sestadienis");
         break;
     case 7:
+    case 14:
+    case 21:
+    case 28:
         console.log("Sendien yra Sekmadienis");
         break;
     default:
